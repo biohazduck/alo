@@ -1,4 +1,4 @@
 # alo
 xD
 
-ts
+ts > js
